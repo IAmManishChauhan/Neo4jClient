@@ -1,0 +1,2 @@
+D:\Neo4jClient\Neo4jClient.POC\bin\Debug\Neo4jClient.POC.exe.config
+D:\Neo4jClient\Neo4jClient.POC\obj\Debug\Neo4jClient.POC.csprojResolveAssemblyReference.cache
